@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\bin\Debug\WordAddIn4.dll
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\bin\Debug\WordAddIn4.pdb
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\bin\Debug\WordAddIn4.dll.manifest
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\bin\Debug\WordAddIn4.vsto
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\obj\Debug\WordAddIn4.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\obj\Debug\WordAddIn4.Properties.Resources.resources
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\obj\Debug\WordAddIn4.Ribbon1.resources
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\obj\Debug\WordAddIn4.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\obj\Debug\WordAddIn4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\obj\Debug\WordAddIn4.csproj.CopyComplete
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\obj\Debug\WordAddIn4.dll
+C:\Users\Dell\Desktop\WordAddIn4\WordAddIn4\obj\Debug\WordAddIn4.pdb
