@@ -37,7 +37,8 @@ namespace WordAddIn4
         {
             this.tab1 = this.Factory.CreateRibbonTab();
             this.group1 = this.Factory.CreateRibbonGroup();
-            this.button1 = this.Factory.CreateRibbonButton();
+            this.label1 = this.Factory.CreateRibbonLabel();
+            this.label2 = this.Factory.CreateRibbonLabel();
             this.tab1.SuspendLayout();
             this.group1.SuspendLayout();
             this.SuspendLayout();
@@ -51,18 +52,20 @@ namespace WordAddIn4
             // 
             // group1
             // 
-            this.group1.Items.Add(this.button1);
-            this.group1.Label = "group1";
+            this.group1.Items.Add(this.label1);
+            this.group1.Items.Add(this.label2);
+            this.group1.Label = "information";
             this.group1.Name = "group1";
             // 
-            // button1
+            // label1
             // 
-            this.button1.ControlSize = Microsoft.Office.Core.RibbonControlSize.RibbonControlSizeLarge;
-            this.button1.Image = global::WordAddIn4.Properties.Resources.png_transparent_logo_computer_icons_symbol_unlocked_thumbnail;
-            this.button1.Label = "Decrypt";
-            this.button1.Name = "button1";
-            this.button1.ShowImage = true;
-            this.button1.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.button1_Click);
+            this.label1.Label = "The text has been";
+            this.label1.Name = "label1";
+            // 
+            // label2
+            // 
+            this.label2.Label = "decrypted 🔓 ";
+            this.label2.Name = "label2";
             // 
             // Ribbon1
             // 
@@ -82,7 +85,8 @@ namespace WordAddIn4
 
         internal Microsoft.Office.Tools.Ribbon.RibbonTab tab1;
         internal Microsoft.Office.Tools.Ribbon.RibbonGroup group1;
-        internal Microsoft.Office.Tools.Ribbon.RibbonButton button1;
+        internal Microsoft.Office.Tools.Ribbon.RibbonLabel label1;
+        internal Microsoft.Office.Tools.Ribbon.RibbonLabel label2;
     }
 
     partial class ThisRibbonCollection

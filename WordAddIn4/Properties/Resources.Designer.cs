@@ -59,15 +59,5 @@ namespace WordAddIn4.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap png_transparent_logo_computer_icons_symbol_unlocked_thumbnail {
-            get {
-                object obj = ResourceManager.GetObject("png-transparent-logo-computer-icons-symbol-unlocked-thumbnail", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

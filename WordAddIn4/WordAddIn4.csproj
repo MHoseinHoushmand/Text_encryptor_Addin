@@ -199,7 +199,7 @@
     <None Include="WordAddIn4_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\png-transparent-logo-computer-icons-symbol-unlocked-thumbnail.png" />
+    <Folder Include="Resources\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
